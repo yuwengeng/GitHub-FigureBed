@@ -13,7 +13,7 @@ date_default_timezone_set("PRC");
 define("REPO","jscdn");//必须是下面用户名下的公开仓库
 define("USER","yuwengeng");//必须是当前GitHub用户名
 define("MAIL","m18831909627@163.com");//
-define("TOKEN","7b9539eaeec2463612c1c9869fb774f66228f479");//https://github.com/settings/tokens生成一个有写权限的token（write:packages前打勾）
+define("TOKEN","");//https://github.com/settings/tokens生成一个有写权限的token（write:packages前打勾）
 
 function upload($url, $content)
 {
