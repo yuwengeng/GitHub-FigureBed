@@ -1,3 +1,4 @@
+[预览](https://yuwengeng.github.io/GitHub-FigureBed/index1.html)
 #源程序名： autoPicCdn 
 
 白嫖Github的存储空间,通过jsdelivr全球加速(含有国内节点). 实现图床的目的.
